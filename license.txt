@@ -1,29 +1,22 @@
-Bootstrap 5 Portfolio Theme for Developers
+The MIT License (MIT)
 
-Theme name:
-=======================================================================
-Developer 
+Copyright (c) 2021 Comity Labs, Inc.
 
-Theme version:
-=======================================================================
-Bootstrap 5 v2.0
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-Release Date:
-=======================================================================
-2022-06-08
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (https://themes.3rdwavemedia.com/)
-
-Contact:
-=======================================================================
-Web: https://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
-
-License: 
-=======================================================================
-This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
-
-If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
